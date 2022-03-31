@@ -1,0 +1,16 @@
+/*
+* File: member.components.css
+* Author: Madarász Dávid
+* Copyright: 2022, Madarász Dávid
+* Group: Szoft II/N
+* Date: 2022-03-31
+* Github: https://github.com/afriyy/
+* Licenc: GNU GPL */
+
+
+input.ng-invalid {
+  border-left: 5px solid red;
+}
+input.ng-valid {
+  border-left: 5px solid green;
+}
